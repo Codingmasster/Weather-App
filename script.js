@@ -2,7 +2,7 @@ const locationInput = document.getElementById("location");
 const weatherInfo = document.getElementById("weather-info");
 
 // Replace with your own API key from OpenWeatherMap
-const API_KEY = "fa9caac9c28c0beaa766b553e8f86dbb";
+const API_KEY = "YOUR_API-KEY";
 
 function fetchWeather() {
   const city = locationInput.value;
