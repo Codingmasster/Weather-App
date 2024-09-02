@@ -18,7 +18,7 @@ Getting Started
 
     Use code with caution.
 
-Replace YOUR_API_KEY in script.js with your own OpenWeatherMap API key (https://openweathermap.org/api).
+Replace YOUR_API in script.js with your own OpenWeatherMap API key (https://openweathermap.org/api).
 
 Usage
 
